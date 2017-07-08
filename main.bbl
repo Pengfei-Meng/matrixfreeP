@@ -1,0 +1,230 @@
+\begin{thebibliography}{10}
+
+\bibitem{akcelik:2006}
+Volkan Ak\c{c}elik, George Biros, Omar Ghattas, Judith Hill, David Keyes, and
+  Bart van Bloemen~Waanders.
+\newblock {Parallel Algorithms for PDE-Constrained Optimization}.
+\newblock In Michael~A. Heroux, Padma Raghavan, and Horst~D. Simon, editors,
+  {\em Parallel Processing for Scientific Computing}, chapter~16, pages
+  291--322. Society for Industrial and Applied Mathematics, January 2006.
+
+\bibitem{allgower_georg_1993}
+Eugene~L. Allgower and Kurt Georg.
+\newblock Continuation and path following.
+\newblock {\em Acta Numerica}, 2:1–64, 1993.
+
+\bibitem{bejan2012thermodynamic}
+Adrian Bejan and Eden Mamut.
+\newblock {\em Thermodynamic optimization of complex energy systems},
+  volume~69.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{bejan2000thermodynamic}
+Adrian Bejan, LAO Rocha, and S~Lorente.
+\newblock Thermodynamic optimization of geometry: T-and y-shaped constructs of
+  fluid streams.
+\newblock {\em International Journal of Thermal Sciences}, 39(9-11):949--960,
+  2000.
+
+\bibitem{benzi2005numerical}
+Michele Benzi, Gene~H. Golub, and J\"{o}rg Liesen.
+\newblock {Numerical solution of saddle point problems}.
+\newblock {\em Acta Numerica}, 14(-1):1--137, May 2005.
+
+\bibitem{saddle_opt}
+Luca Bergamaschi, Jacek Gondzio, and Giovanni Zilli.
+\newblock Preconditioning indefinite systems in interior point methods for
+  optimization.
+\newblock {\em Computational Optimization and Applications}, 28(2):149--171,
+  2004.
+
+\bibitem{DBLP:journals/siamsc/BirosG05}
+George Biros and Omar Ghattas.
+\newblock Parallel lagrange-newton-krylov-schur methods for pde-constrained
+  optimization. part {I:} the krylov-schur solver.
+\newblock {\em {SIAM} J. Scientific Computing}, 27(2):687--713, 2005.
+
+\bibitem{DBLP:journals/siamsc/BirosG05a}
+George Biros and Omar Ghattas.
+\newblock Parallel lagrange-newton-krylov-schur methods for pde-constrained
+  optimization. part {II:} the lagrange-newton solver and its application to
+  optimal control of steady viscous flows.
+\newblock {\em {SIAM} J. Scientific Computing}, 27(2):714--739, 2005.
+
+\bibitem{borzi:2011}
+Alfio Borz\`{\i} and Volker Schulz.
+\newblock {\em {Computational Optimization of Systems Governed by Partial
+  Differential Equations}}.
+\newblock Society for Industrial and Applied Mathematics, January 2011.
+
+\bibitem{Brown_2016}
+David~A. Brown and David~W. Zingg.
+\newblock A monolithic homotopy continuation algorithm with application to
+  computational fluid dynamics.
+\newblock {\em Journal of Computational Physics}, 321:55 -- 75, 2016.
+
+\bibitem{Byrd:1999:IPA:588897.589167}
+Richard~H. Byrd, Mary~E. Hribar, and Jorge Nocedal.
+\newblock An interior point algorithm for large-scale nonlinear programming.
+\newblock {\em SIAM J. on Optimization}, 9(4):877--900, April 1999.
+
+\bibitem{chen1999finite}
+Lingen Chen, Chih Wu, and Fengrui Sun.
+\newblock Finite time thermodynamic optimization or entropy generation
+  minimization of energy systems.
+\newblock {\em Journal of Non-Equilibrium Thermodynamics}, 24(4):327--359,
+  1999.
+
+\bibitem{DBLP:DeckelnickHJ17}
+Klaus Deckelnick, Michael Hinze, and Tobias Jordan.
+\newblock An optimal shape design problem for plates.
+\newblock {\em {SIAM} J. Numerical Analysis}, 55(1):109--130, 2017.
+
+\bibitem{dener:idf2017}
+Alp Dener and Jason~E. Hicken.
+\newblock {Matrix-free Algorithm for the Optimization of Multidisciplinary
+  Systems}.
+\newblock {\em Structural and Multidisciplinary Optimization}, 2017.
+\newblock (accepted).
+
+\bibitem{dener:scitech2016}
+Alp Dener, Jason~E. Hicken, Pengfei Meng, Graeme~J. Kennedy, John Hwang, and
+  Justin Gray.
+\newblock {Kona: a parallel optimization library for engineering-design
+  problems}.
+\newblock In {\em AIAA SciTech Conference}, January 2016.
+\newblock AIAA 2016-1422.
+
+\bibitem{allgower3}
+K.~Georg.
+\newblock {\em A Note on Stepsize Control for Numerical Curve Following}, pages
+  145--154.
+\newblock Springer US, Boston, MA, 1983.
+
+\bibitem{gill:2002}
+Philip~E. Gill, Walter Murray, and Michael~A. Saunders.
+\newblock {SNOPT}: an {SQP} algorithm for large-scale constrained optimization.
+\newblock {\em {SIAM} Journal on Optimization}, 12(4):979--1006, 2002.
+
+\bibitem{Gondzio2012}
+Jacek Gondzio.
+\newblock Matrix-free interior point method.
+\newblock {\em Computational Optimization and Applications}, 51(2):457--480,
+  2012.
+
+\bibitem{haber:2001}
+E.~Haber and U.~M. Ascher.
+\newblock {Preconditioned all-at-once methods for large, sparse parameter
+  estimation problems}.
+\newblock {\em Inverse Problems}, 17(6):1847--1864, December 2001.
+
+\bibitem{Heinkenschloss:1999:IOA}
+Matthias Heinkenschloss and Lu\'{\i}s~N. Vicente.
+\newblock An interface optimization and application for the numerical solution
+  of optimal control problems.
+\newblock {\em ACM Trans. Math. Softw.}, 25(2):157--190, June 1999.
+
+\bibitem{hicken:inexact2014}
+Jason~E. Hicken.
+\newblock {Inexact Hessian-vector products in reduced-space
+  differential-equation constrained optimization}.
+\newblock {\em Optimization and Engineering}, 15(3):575--608, September 2014.
+
+\bibitem{hicken:cfd2011b}
+Jason~E. Hicken, Howard Buckley, Michal Osusky, and David~W. Zingg.
+\newblock Dissipation-based continuation: a globalization for inexact-{N}ewton
+  solvers.
+\newblock In {\em 20th {AIAA} {C}omputational {F}luid {D}ynamics {C}onference},
+  number AIAA-2011-3237, Honolulu, Hawaii, United States, June 2011.
+
+\bibitem{hicken:cfd2009}
+Jason~E. Hicken and David~W. Zingg.
+\newblock Globalization strategies for inexact-{N}ewton solvers.
+\newblock In {\em 19th {AIAA} {C}omputational {F}luid {D}ynamics {C}onference},
+  number AIAA-2009-4139, San Antonio, Texas, United States, June 2009.
+
+\bibitem{hinze2010optimization}
+M.~Hinze, R.~Pinnau, M.~Ulbrich, and S.~Ulbrich.
+\newblock {\em Optimization with PDE Constraints}.
+\newblock Mathematical Modelling: Theory and Applications. Springer
+  Netherlands, 2010.
+
+\bibitem{huang_2012pc}
+Qingqun Huang, Zhibin Zhu, and Xiangling Wang.
+\newblock A predictor-corrector algorithm combined conjugate gradient with
+  homotopy interior point for general nonlinear programming.
+\newblock {\em Appl. Math. Comput.}, 219(9):4379--4386, January 2013.
+
+\bibitem{kennedy14}
+Kai~A. James, Graeme~J. Kennedy, and Joaquim R. R.~A. Martins.
+\newblock Concurrent aerostructural topology optimization of a wing box.
+\newblock {\em Comput. Struct.}, 134:1--17, April 2014.
+
+\bibitem{Jameson03aerodynamicshape}
+Antony Jameson.
+\newblock Aerodynamic shape optimization using the adjoint method.
+\newblock In {\em VKI Lecture Series on Aerodynamic Drag Prediction and
+  Reduction, von Karman Institute of Fluid Dynamics, Rhode St Genese}, pages
+  3--7, 2003.
+
+\bibitem{Knoll:2004:JNM:973444.973445}
+D.~A. Knoll and D.~E. Keyes.
+\newblock Jacobian-free newton-krylov methods: A survey of approaches and
+  applications.
+\newblock {\em J. Comput. Phys.}, 193(2):357--397, January 2004.
+
+\bibitem{lambe:2014}
+Andrew~B. Lambe, Graeme~J. Kennedy, and Joaquim R. R.~A. Martins.
+\newblock {Multidisciplinary Design Optimization of an Aircraft Wing via a
+  Matrix-Free Approach}.
+\newblock In {\em 15th AIAA/ISSMO Multidisciplinary Analysis and Optimization
+  Conference}, Atlanta, Georgia, 2014.
+
+\bibitem{lyu2014aerodynamic}
+Zhoujie Lyu and Joaquim~RRA Martins.
+\newblock Aerodynamic design optimization studies of a blended-wing-body
+  aircraft.
+\newblock {\em Journal of Aircraft}, 51(5):1604--1617, 2014.
+
+\bibitem{Nocedal2006NO}
+J.~Nocedal and S.~J. Wright.
+\newblock {\em Numerical Optimization}.
+\newblock Springer, New York, 2nd edition, 2006.
+
+\bibitem{chow_1978}
+John Mallet-Paret Shui-Nee~Chow and James~A. Yorke.
+\newblock Finding zeroes of maps: Homotopy methods that are constructive with
+  probability one.
+\newblock {\em Mathematics of Computation}, 32(143):887--899, 1978.
+
+\bibitem{trefethen1997numerical}
+Lloyd~N Trefethen and David Bau~III.
+\newblock Numerical linear algebra, 1997.
+
+\bibitem{Watson_1989}
+layne~t watson.
+\newblock {\em globally convergent homotopy methods: a tutorial}.
+\newblock 1986.
+
+\bibitem{watson_2002}
+Layne~T. Watson.
+\newblock Probability-one homotopies in computational science.
+\newblock 2000.
+
+\bibitem{Watson_2001}
+Layne~T. Watson.
+\newblock Theory of globally convergent probability-one homotopies for
+  nonlinear programming.
+\newblock {\em SIAM Journal on Optimization}, 11(3):761--780, 2001.
+
+\bibitem{Zhang567303}
+Mengmeng Zhang, Arthur Rizzi, Pengfei Meng, Raj Nangia, Rafiz Amiree, and
+  Olivier Amoignon.
+\newblock Aerodynamic design considerations and shape optimization of flying
+  wings in transonic flight.
+\newblock In {\em 12th AIAA Aviation Technology, Integration, and Operations
+  (ATIO) Conference and 14th AIAA/ISSM17 - 19 September 2012, Indianapolis,
+  Indiana}, pages 1--17, 2012.
+\newblock QC 20121113.
+
+\end{thebibliography}
